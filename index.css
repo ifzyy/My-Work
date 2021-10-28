@@ -1,0 +1,23 @@
+/*style.css*/
+body{
+color: gold;
+background-color: grey;
+background-image: url("https://ichef.bbci.co.uk//food/ic/food_16x9_832/recipes/chicken_pie_24044_16x9.jpg")
+}
+
+
+
+.head{
+    color: black;
+     
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 40px;
+}
+.beef{
+    color: black;
+    background-color: transparent;
+    text-align: left;
+    font-size: 25px;
+}
